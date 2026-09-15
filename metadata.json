@@ -1,0 +1,11 @@
+{
+  "name": "Road Sense",
+  "description": "AI-Powered Mobile Urban Sensing Network turning public transport buses into intelligent mobile urban sensors for road defects, safety, and infrastructure monitoring.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
